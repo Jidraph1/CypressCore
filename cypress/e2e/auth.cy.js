@@ -35,3 +35,6 @@ it('should logout a user', ()=>{
 
 })
 })
+
+
+// End of Cypress for now, Will revisit later
