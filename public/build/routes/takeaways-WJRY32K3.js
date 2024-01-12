@@ -4,13 +4,13 @@ import {
 import {
   Takeaways_default,
   require_prisma
-} from "/build/_shared/chunk-G3HH3WJH.js";
+} from "/build/_shared/chunk-WYBTRM73.js";
 import {
   Link,
   Outlet,
   require_jsx_dev_runtime,
   useLoaderData
-} from "/build/_shared/chunk-3JAPMQFG.js";
+} from "/build/_shared/chunk-XXCIWKES.js";
 import {
   __toESM
 } from "/build/_shared/chunk-IU43IUTG.js";
@@ -72,4 +72,4 @@ var takeaways_default = TakewaysLayoutRoute;
 export {
   takeaways_default as default
 };
-//# sourceMappingURL=/build/routes/takeaways-ZWYVLDFJ.js.map
+//# sourceMappingURL=/build/routes/takeaways-WJRY32K3.js.map

@@ -38,3 +38,10 @@ it('should logout a user', ()=>{
 
 
 // End of Cypress for now, Will revisit later
+
+
+// You can also target the element by findByPlaceholderText()
+
+You can also use cy.log() instead of console.log() to make sure that the tests 
+run synchronously
+
