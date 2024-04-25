@@ -37,3 +37,6 @@ describe('Newsletter tests', ()=>{
         })
     })
 })
+
+
+// New additions to cypress folder
